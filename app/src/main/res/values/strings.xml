@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Universitas Terbaik</string>
+    <string name="Univ_name">Nama Universitas</string>
+    <string name="Univ_detail">Detail Universitas</string>
+    <string name="title_detail">Title</string>
+    <string name="content_detail">Content Detail</string>
+    <string name="Universitas_lokasi">Lokasi Universitas</string>
+    <string name="profile">Profil</string>
+    <string name="about_detail">Detail About</string>
+    <string name="my_email">ahmadsodik4717@gmail.com</string>
+    <string name="my_name">Ahmad Sodik</string>
+
+
+    /*Content Detail About /*
+    <string name="name_lengkap">Nama Lengkap</string>
+    <string name="content_name_lengkap">Ahmad Sodik</string>
+    <string name="alamat_lengkap">Alamat Lengkap</string>
+    <string name="content_alamat_lengkap">Mesuji Jaya\nKec.Mesuji Makmur\nOgan Komering Ilir\nSumatera Selatan.</string>
+    <string name="domisili">Domisili</string>
+    <string name="content_domisili">Wonosobo Jawa Tengah</string>
+    <string name="student">Student</string>
+    <string name="content_student">Universitas Sains AlQuran, (UNSIQ) Wonosobo.</string>
+    <string name="email_dicoding">Email Yang Terdaftar Di Dicoding</string>
+    <string name="content_email_dicoding">ahmadsodik4717@gmail.com</string>
+    <string name="motivasi">Motivation</string>
+    <string name="content_motivasi">"Belajar memang proses yang\nsangat melelahkan, namun akan lebih melelahkan lagi jika saat ini tidak belajar"</string>
+    <string name="github">github</string>
+    <string name="linkedin">linkedin</string>
+    <string name="instagram">instagram</string>
+
+
+    /*Content Detail Universitas */
+    <string name="alamat_lokasi">Alamat</string>
+    <string name="content_lokasi">@string/Universitas_lokasi</string>
+    <string name="detail">Detail Universitas</string>
+    <string name="content_detail_univ">@string/Univ_detail</string>
+    <string name="share">share</string>
+
+</resources>
